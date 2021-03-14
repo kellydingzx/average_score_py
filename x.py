@@ -1,0 +1,5 @@
+a = input()
+b = int(input())
+c = int(input())
+print("Hello " + str(a))
+print("Your average score is " + str((b+c)/2))
